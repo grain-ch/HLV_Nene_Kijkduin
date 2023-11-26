@@ -1,0 +1,7 @@
+<France_Disk_2Blade_01_alpha.mfm>
+	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/textures/France_Disk_2Blade_01_alpha_a.dds	</Texture>
+	</property>
+</France_Disk_2Blade_01_alpha.mfm>
