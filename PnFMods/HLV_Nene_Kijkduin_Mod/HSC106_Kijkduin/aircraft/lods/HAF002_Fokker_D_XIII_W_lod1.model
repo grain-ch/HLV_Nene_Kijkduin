@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/lods/HAF002_Fokker_D_XIII_W_lod2	</parent>
 	<extent>	20.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/lods/HAF002_Fokker_D_XIII_W_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </HAF002_Fokker_D_XIII_W_lod1.model>

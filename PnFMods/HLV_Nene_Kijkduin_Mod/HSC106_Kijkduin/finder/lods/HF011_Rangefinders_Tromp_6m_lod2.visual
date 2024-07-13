@@ -73,7 +73,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.2134 -0.0005 -0.0406	</min>
-		<max>	0.2134 0.0791 0.0406	</max>
+		<min>	-0.2133 -0.0005 -0.0406	</min>
+		<max>	0.2133 0.0791 0.0406	</max>
 	</boundingBox>
 </HF011_Rangefinders_Tromp_6m_lod2.visual>

@@ -4,4 +4,7 @@
 	<property>	diffuseMap
 		<Texture>	content/gameplay/common/textures/France_Disk_2Blade_01_alpha_a.dds	</Texture>
 	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
 </France_Disk_2Blade_01_alpha.mfm>

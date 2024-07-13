@@ -78,7 +78,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.5048 -0.4729 -6.1364	</min>
-		<max>	0.5053 0.3018 -3.8001	</max>
+		<min>	-0.5045 -0.4727 -6.1333	</min>
+		<max>	0.5050 0.3016 -3.7982	</max>
 	</boundingBox>
 </HSC006_Kijkduin_1944_Stern_lod3.visual>

@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1156 -0.0085 -0.1095	</min>
-		<max>	0.1156 0.1932 0.1067	</max>
+		<min>	-0.1155 -0.0085 -0.1094	</min>
+		<max>	0.1155 0.1931 0.1066	</max>
 	</boundingBox>
 </HD012_Centraal_Richttoestel_lod3.visual>

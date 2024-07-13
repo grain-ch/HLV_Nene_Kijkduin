@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1187 0.0000 -0.1203	</min>
-		<max>	0.1353 0.2346 0.1470	</max>
+		<min>	-0.1186 0.0000 -0.1202	</min>
+		<max>	0.1352 0.2345 0.1469	</max>
 	</boundingBox>
 </HGA021_40mm_Bofors_Mark_IV_Hazemeyer_dead_lod2.visual>

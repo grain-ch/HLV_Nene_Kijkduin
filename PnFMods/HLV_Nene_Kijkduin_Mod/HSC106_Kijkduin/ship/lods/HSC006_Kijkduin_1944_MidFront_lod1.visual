@@ -285,7 +285,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.6048 -0.4604 -1.8771	</min>
-		<max>	0.6048 2.1015 4.8810	</max>
+		<min>	-0.6045 -0.4602 -1.8762	</min>
+		<max>	0.6045 2.1004 4.8786	</max>
 	</boundingBox>
 </HSC006_Kijkduin_1944_MidFront_lod1.visual>

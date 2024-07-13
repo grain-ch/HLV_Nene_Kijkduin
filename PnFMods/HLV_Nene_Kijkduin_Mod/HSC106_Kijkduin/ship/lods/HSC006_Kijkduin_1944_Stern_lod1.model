@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/ship/lods/HSC006_Kijkduin_1944_Stern_lod2	</parent>
 	<extent>	28.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/ship/lods/HSC006_Kijkduin_1944_Stern_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </HSC006_Kijkduin_1944_Stern_lod1.model>

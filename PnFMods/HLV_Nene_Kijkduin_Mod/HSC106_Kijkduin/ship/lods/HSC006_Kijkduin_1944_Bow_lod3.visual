@@ -101,7 +101,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.4438 -0.4461 4.2806	</min>
-		<max>	0.4438 0.4184 6.2491	</max>
+		<min>	-0.4436 -0.4459 4.2785	</min>
+		<max>	0.4436 0.4182 6.2460	</max>
 	</boundingBox>
 </HSC006_Kijkduin_1944_Bow_lod3.visual>
