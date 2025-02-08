@@ -1,7 +1,6 @@
 <HAF002_Fokker_D_XIII_W.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/lods/HAF002_Fokker_D_XIII_W_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/HAF002_Fokker_D_XIII_W	</nodefullVisual>
+	<visual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/HAF002_Fokker_D_XIII_W.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </HAF002_Fokker_D_XIII_W.model>

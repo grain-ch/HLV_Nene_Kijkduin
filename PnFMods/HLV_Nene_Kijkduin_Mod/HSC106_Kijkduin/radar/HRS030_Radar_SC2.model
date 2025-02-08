@@ -1,7 +1,8 @@
 <HRS030_Radar_SC2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/radar/lods/HRS030_Radar_SC2_lod1	</parent>
-	<extent>	6.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/radar/HRS030_Radar_SC2	</nodefullVisual>
+	<visual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/radar/HRS030_Radar_SC2.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/HRS030_Radar_SC2/HRS030_Radar_SC2.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </HRS030_Radar_SC2.model>

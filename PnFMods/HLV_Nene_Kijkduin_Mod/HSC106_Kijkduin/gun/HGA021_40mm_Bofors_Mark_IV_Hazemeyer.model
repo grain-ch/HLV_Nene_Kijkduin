@@ -1,7 +1,6 @@
 <HGA021_40mm_Bofors_Mark_IV_Hazemeyer.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/gun/lods/HGA021_40mm_Bofors_Mark_IV_Hazemeyer_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/gun/HGA021_40mm_Bofors_Mark_IV_Hazemeyer	</nodefullVisual>
+	<visual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/gun/HGA021_40mm_Bofors_Mark_IV_Hazemeyer.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </HGA021_40mm_Bofors_Mark_IV_Hazemeyer.model>

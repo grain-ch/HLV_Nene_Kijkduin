@@ -2,6 +2,6 @@
 	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/common/textures/NL_Disk_2Blade_01_alpha_a.dds	</Texture>
+		<Texture>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/NL_Disk_2Blade_01_alpha_a.dds	</Texture>
 	</property>
 </NL_Disk_2Blade_01_alpha.mfm>

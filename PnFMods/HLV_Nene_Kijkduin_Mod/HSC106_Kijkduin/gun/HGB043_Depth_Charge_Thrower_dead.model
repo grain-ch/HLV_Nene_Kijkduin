@@ -1,7 +1,6 @@
 <HGB043_Depth_Charge_Thrower_dead.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/gun/lods/HGB043_Depth_Charge_Thrower_dead_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/gun/HGB043_Depth_Charge_Thrower_dead	</nodefullVisual>
+	<visual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/gun/HGB043_Depth_Charge_Thrower_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </HGB043_Depth_Charge_Thrower_dead.model>

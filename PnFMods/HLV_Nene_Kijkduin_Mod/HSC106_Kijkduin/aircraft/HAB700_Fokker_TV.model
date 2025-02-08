@@ -1,7 +1,6 @@
 <HAB700_Fokker_TV.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/lods/HAB700_Fokker_TV_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/HAB700_Fokker_TV	</nodefullVisual>
+	<visual>	PnFMods/HLV_Nene_Kijkduin_Mod/HSC106_Kijkduin/aircraft/HAB700_Fokker_TV.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </HAB700_Fokker_TV.model>
